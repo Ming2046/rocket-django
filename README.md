@@ -1,3 +1,9 @@
+
+### Note
+
+this is a free version. not updated Use the PRO REPO
+
+
 <div align="center">
     <a href="https://rocket-django.onrender.com">
         <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/51070104/272178364-cbac6d97-b2dc-4d95-bab6-891f4ee7d84d.png"" width="64" height="64" alt="Rocket Icon">
